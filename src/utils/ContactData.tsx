@@ -75,7 +75,7 @@ export const contactData = {
             />
           </svg>
         ),
-        lines: ['Office: hello@zenithreach.com', 'Help Desk: contact@zenithreach.com'],
+        lines: ['Office: contact@zenithreachsolutions.com', 'Help Desk: support@zenithreachsolutions.com'],
       },
       {
         id: 'address',
@@ -87,12 +87,7 @@ export const contactData = {
             />
           </svg>
         ),
-        lines: [
-          'Zenith Reach Exports',
-          '#15, Trade Zone Industrial Park',
-          'NH Bypass Road, Kakkanad',
-          'Ernakulam, Kerala - 682030, India',
-        ],
+        lines: ['Zenith Reach Exports', '1/122/H, Marampally PO. Edathala,', 'Ernakulam, Kerala, 683 105'],
       },
     ],
   },

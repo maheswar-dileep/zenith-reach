@@ -97,20 +97,16 @@ const Footer = () => {
               <div className="text-center">
                 <p className="text-xl font-light text-white mb-2">Zenith Reach Exports</p>
                 <p className="text-gray-300 font-light mb-4 text-sm leading-6">
-                  #15, Trade Zone Industrial Park
-                  <br />
-                  NH Bypass Road, Kakkanad <br />
-                  Ernakulam, Kerala - 682030 <br />
-                  India
+                  1/122/H, Marampally PO. Edathala, <br /> Ernakulam, Kerala, 683 105
                 </p>
               </div>
               <div className="space-y-2 mb-6 text-center">
                 <p className="text-gray-300">
-                  Phone <a href="tel:+919876543210">+91 98765 43210</a>
+                  Phone <a href="tel:+919778759721">+91 9778 759 721</a>
                 </p>
                 <p className="text-gray-300">
                   Email:
-                  <a href="mailto:contact@zenithreach.com">contact@zenithreach.com</a>
+                  <a href="mailto:support@zenithreachsolutions.com">support@zenithreachsolutions.com</a>
                 </p>
               </div>
               <div className="flex gap-6">
