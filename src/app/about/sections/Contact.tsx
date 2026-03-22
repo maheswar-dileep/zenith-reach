@@ -12,6 +12,9 @@ export default function Contact() {
           <a href="/contact" className="cursor-pointer">
             <button className="cursor-pointer bg-primary px-5 py-2">Contact now</button>
           </a>
+          <a href="/content/zere.pdf" download="Zenith-Reach-Brochure.pdf" className="cursor-pointer ms-4">
+            <button className="cursor-pointer bg-primary px-5 py-2">Download Brochure</button>
+          </a>
         </div>
       </div>
     </section>

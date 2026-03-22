@@ -56,7 +56,7 @@ export const categoryData = [
       {
         id: 'sliced_coconut',
         title: 'Sliced Coconut',
-        image: '/products/coconut/coconut-p1.jpeg',
+        image: '/products/coconut/coconut-p4.png',
         description: 'Fresh coconut slices, frozen to retain natural sweetness and texture.',
         href: '#',
       },
@@ -203,6 +203,13 @@ export const categoryData = [
         title: 'Coriander',
         image: '/products/spices/coriander.jpg',
         description: 'Aromatic coriander seeds/powder, adding citrusy notes to curries.',
+        href: '#',
+      },
+      {
+        id: 'fenu-greek',
+        title: 'Fenu-Greek',
+        image: '/products/spices/fenu-greek.png',
+        description: 'Fenugreek seeds, known for their distinct aroma and flavor.',
         href: '#',
       },
     ],
