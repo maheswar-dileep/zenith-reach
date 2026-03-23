@@ -95,7 +95,7 @@ const Footer = () => {
             <div className="md:text-right flex flex-col gap-4 items-center my-12 z-1 relative">
               <Image src="/image/logo.png" alt="Logo" width={150} height={40} />
               <div className="text-center">
-                <p className="text-xl font-light text-white mb-2">Zenith Reach Exports</p>
+                <p className="text-xl font-light text-white mb-2">Zenithreach Global LLP</p>
                 <p className="text-gray-300 font-light mb-4 text-sm leading-6">
                   1/122/H, Marampally PO. Edathala, <br /> Ernakulam, Kerala, 683 105
                 </p>

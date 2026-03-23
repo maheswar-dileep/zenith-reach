@@ -19,7 +19,7 @@ export const contactData = {
             />
           </svg>
         ),
-        lines: ['Office: 04829 291995', 'Mob: +91 85903 69978'],
+        lines: ['Office: 04829 291995', 'Mob: +91 9778 759 721'],
       },
       {
         id: 'email',
@@ -87,7 +87,7 @@ export const contactData = {
             />
           </svg>
         ),
-        lines: ['Zenith Reach Exports', '1/122/H, Marampally PO. Edathala,', 'Ernakulam, Kerala, 683 105'],
+        lines: ['Zenithreach Global LLP', '1/122/H, Marampally PO. Edathala,', 'Ernakulam, Kerala, 683 105'],
       },
     ],
   },
