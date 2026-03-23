@@ -139,7 +139,7 @@ export default function CategoriesSection() {
     {
       title: 'Dry Products',
       description: 'Dehydrated fruits, flours, and mixes.',
-      image: '/image/cat-dry.jpg',
+      image: '/products/spices/dried-ginger.png',
       listItems: dryItems,
       ctaHref: '/products/category/dry-products',
     },
