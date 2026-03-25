@@ -11,13 +11,13 @@ const carouselItems = [
   },
   {
     id: 2,
-    image: '/image/coursol-img-a.png',
+    image: '/image/cat-spices.png',
     category: 'SPICES',
     title: 'Authentic Spices',
   },
   {
     id: 3,
-    image: '/image/coursol-img-a.png',
+    image: '/image/cat-dry.jpg',
     category: 'DRY PRODUCTS',
     title: 'Premium Dry Foods',
   },
@@ -74,8 +74,8 @@ export default function HeroSection() {
             >
               {carouselItems.map((item) => (
                 <div key={item.id} className="w-full flex-shrink-0 relative">
-                  <picture className="">
-                    <img src={item.image} alt={item.title} className="w-full object-cover" />
+                  <picture className="block w-full h-[350px] lg:h-[450px]">
+                    <img src={item.image} alt={item.title} className="w-full h-full object-cover" />
                   </picture>
 
                   {/* Bottom Overlay */}
