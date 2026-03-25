@@ -35,7 +35,7 @@ const Contact = () => {
             cards={contactData.contactInfoSection.cards}
           />
           <ContactFormSection />
-          <ContactMapSection mapSrc="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31517.0369933465!2d76.3062218!3d9.9816352!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b080d1b6c9b3a99%3A0x4a0fdf3a27b2b4c5!2sKakkanad%2C%20Kerala!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin" />
+          <ContactMapSection mapSrc="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3928.087296002964!2d76.42116032487269!3d10.091933090018227!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1s1%2F122%2Fh%20marampally%20po.%20edathala%20ernakulam%20kerala%20683%20105!5e0!3m2!1sen!2sin!4v1774459681380!5m2!1sen!2sin" />
         </div>
         <Footer />
       </div>

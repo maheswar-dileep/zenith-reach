@@ -17,9 +17,9 @@ const carouselItems = [
   },
   {
     id: 3,
-    image: '/image/cat-dry.jpg',
-    category: 'DRY PRODUCTS',
-    title: 'Premium Dry Foods',
+    image: '/products/masala/sambar-powder.png',
+    category: 'MASALA PRODUCTS',
+    title: 'Authentic Masala',
   },
 ];
 

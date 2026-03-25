@@ -19,7 +19,7 @@ export const contactData = {
             />
           </svg>
         ),
-        lines: ['Office: 04829 291995', 'Mob: +91 9778 759 721'],
+        lines: ['Office: +1 (647) 767-1935', 'Mob: +91 9778 759 721'],
       },
       {
         id: 'email',
