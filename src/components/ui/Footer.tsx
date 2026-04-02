@@ -11,9 +11,9 @@ const Footer = () => {
   const footerLinks1 = [
     { label: 'Home', href: '/' },
     { label: 'About Us', href: '/about' },
-    { label: 'Our Mission', href: '#our-mission' },
+    { label: 'Our Mission', href: '/about' },
     { label: 'Product Categories', href: '/products' },
-    { label: 'Why Choose Us', href: '#why-choose' },
+    { label: 'Why Choose Us', href: '/about' },
     {
       label: 'Contact',
       href: '/contact',
@@ -23,23 +23,23 @@ const Footer = () => {
   const footerLinks2 = [
     {
       label: 'Spices',
-      href: '#spices',
+      href: '/products/category/spices',
     },
     {
       label: 'Frozen Products',
-      href: '#frozen-products',
+      href: '/products/category/frozen-ready-to-eat',
     },
     {
-      label: 'Dry Products',
-      href: '#dry-products',
+      label: 'Masala',
+      href: '/products/category/masala',
     },
     {
       label: 'Export Info',
-      href: '#export-info',
+      href: '/contact',
     },
     {
       label: 'Privacy Policy',
-      href: '#privacy-policy',
+      href: '/about',
     },
     { label: 'Quality & Standards', href: '/about' },
   ];
